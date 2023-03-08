@@ -1,2 +1,6 @@
 #!/bin/bash
-cd ..
+pwd
+cd /var
+pwd
+source ./10-back
+pwd
